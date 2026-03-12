@@ -326,7 +326,6 @@ fun imageComp(){
                 modifier = Modifier.align(Alignment.Bottom)
                     .padding(8.dp)
                     .size(20.dp))
-
         }
 
 
